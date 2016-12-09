@@ -7,7 +7,7 @@
 6 silly lifecycle node-chat@0.0.1~prestart: no script for prestart, continuing
 7 info lifecycle node-chat@0.0.1~start: node-chat@0.0.1
 8 verbose lifecycle node-chat@0.0.1~start: unsafe-perm in lifecycle true
-9 verbose lifecycle node-chat@0.0.1~start: PATH: /usr/lib/node_modules/npm/bin/node-gyp-bin:/mnt/c/Users/edy_p/Desktop/node-chat/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+9 verbose lifecycle node-chat@0.0.1~start: PATH: /usr/lib/node_modules/npm/bin/node-gyp-bin:/mnt/c/Users/edy_p/Desktop/node-chat/node_modules/.bin:/usr/local/heroku/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
 10 verbose lifecycle node-chat@0.0.1~start: CWD: /mnt/c/Users/edy_p/Desktop/node-chat
 11 silly lifecycle node-chat@0.0.1~start: Args: [ '-c', 'node server/server.js' ]
 12 silly lifecycle node-chat@0.0.1~start: Returned: code: 1  signal: null
